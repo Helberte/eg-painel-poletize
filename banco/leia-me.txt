@@ -1,0 +1,12 @@
+Banco escrito em postgresql 15
+
+
+passo a passo para restaurar
+
+1° Instale o pgAdmin 4
+
+2° Crie um banco de dados vazio com o nome igual a => painelvotacao
+
+3° clique com o botão direito neste novo banco e escolha a opção restaurar
+
+4° escolha o arquivo desta pasta com o nome de "painelvotacao", pronto, banco restaurado
